@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"preo",
+				"preprocessStrata"
+			],
+			[
+				"Unique",
+				"uniqueID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bng/Downloads/how-to-handle-correlated-features.Rmd",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/reference/AutomationResultForShipID.csv",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/reference/CatTextMapping.json",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/CatTextAnalysis.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/.gitignore",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/settings/settings.json",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/results/AMIS.csv",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/code/stratapy.py",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/temp/CramersV_Heat1.csv",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/results/CramersV.csv",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/stratas/processed/Strata1.csv",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/data/ProcessedData.csv",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/ShipIDQuery.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/TableSizeQuery.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/SizeByDate.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/TableDefinitions.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/sql/SuccessQuery.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/sql/FailQuery.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/sql/UnknownQuery.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/sql/TableDefinitions.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/sql/CatTextAnalysis.sql",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/data/MappingData.json",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/data/SQLLiteMapping.json",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/WEAFProcessor.py",
+		"/C/Users/bng/Documents/BI/InetSoft/Carrier Review Dashboard/Claims Dashboard/DataCheckQuery.sql",
+		"/C/Users/bng/Documents/BI/Data Mart/DM_InetSoft_TblCarrierClaimsSummary.sql",
+		"/C/Users/bng/Documents/BI/Data Mart/DM_InetSoft Load Script.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/tester.py",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/SuccessQuery.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/FailQueryCount.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/SuccessQueryCount.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/sql/UnknownQueryCount.sql",
+		"/C/Users/bng/Documents/Analysis/weafpy/weafpy/data/AutomationResultsMap.json",
+		"/C/Users/bng/Documents/Analysis/WebAutomationFailure/data.csv",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/LTLSummary_WeightClass_Modified.sql",
+		"/C/Users/bng/Documents/BI/Microsoft PowerBI/MyUTSColorPalette.json",
+		"/C/Users/bng/Documents/BI/Microsoft PowerBI/DevOpsDashboard.html",
+		"/C/Users/bng/Documents/Projects/InetSoft/CSS/radio_button.css",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/FinancialPerformance.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/ShipmentActivitySummaryByMode.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/LTLAnalysis_ByGroup.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/FinancialPerformance_ProgramAndManaged.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/LTLSummary_Overview_Modified.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/LTLSummary_Overview.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/LTLSummary_WeightClass.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/FinancialPerformance.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/BreakdownByMode_Detail_Moified.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/BreakdownByMode_Overview_Modified.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/BreakdownByBound_Modified.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/BreakdownByMode_Overview.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/BreakdownByMode_Detail.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/ShipmentActivitySummary_Rework.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/ShipmentActivitySummary_ReworkV2.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/UTS_spClientReview_RptModeByState.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/SQL Dashboard Recreation/BreakdownByBound.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/LTLAnalysis_Summary.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/FinancialPerformance_Ungrouped.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/DataModel.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/ShipmentActivitySummary_ReworkV3.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/viewClientReview_Modes.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/UTSSQLDB/UTS_spClientReview_RptShipmentActivity.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/UTSSQLDB/UTS_spClientReview_RptLTLAnalysis.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/InetSoft/LTLShipmentsMaster.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/UTS_spClientReview_RptCarrierServiceByMode.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/03 UTS_spClientReview_UpdateGeoName.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/04 UTS_spClientReview_NormalizedDataVendors.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/05 UTS_spClientReview_NormalizedDataAccessorials.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/06 UTS_spClientReview_NormalizedDataClientFees.sql",
+		"/C/Users/bng/Documents/Projects/EMS-INET Verification/Code/07 UTS_spClientReview_NormalizeDataClients.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/Modified/EMS_ClientReport_AccessorialDetails.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_MonthlyFreightExpenditure.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_YearlyCarrierServiceByQuarter.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_YearlyFreightExpenditureByMode.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_YearlyFreightExpenditureByQuarter.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_ManagedLTLByCostPerLB.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_ManagedLTLMonthly.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_ManagedLTLQuarterly.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_MarginDetails.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_ExpediteDetails.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_LTLAnalysisReportOutbound.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_FreightClaimsStatusReport.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_LTLAnalysis.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_LTLAnalysisReportInbound.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_CarrierServiceByODandCarrier.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_CarrierServiceByOD.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_CarrierServiceByMode.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_CarrierServiceByBound.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_AccessorialDetailsbyYearandMonth.sql",
+		"/C/Users/bng/Documents/Projects/LTL Reporting/Code/Procedures/EMS_ClientReport_AccessorialDetails.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/UTSSQLDB/LTLAnalysisConsolidatedReport.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/UTSSQLDB/fnClientReport_GetClients.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/InetSoft/ClientReviewOrderLineDetailsForWeightedAverage_QueryPlan.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/InetSoft/ClientReviewDetails1_QueryPlan.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/InetSoft/LTLInbound.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/InetSoft/ClientReviewOrderLineDetailsForWeightedAverage_DirectQuery.sql",
+		"/C/Users/bng/Documents/Analysis/InOutAnalysis/Project.sublime-project",
+		"/C/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Sublime/Packages/Cyanide.sublime-theme",
+		"/C/Sublime/Packages/Cyanide.tmTheme"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"],",
+			"[",
+			".imshow(",
+			"thresholdValues",
+			": {",
+			"open",
+			"#_",
+			"\"\"\"",
+			"ShipType",
+			"UnloadDateTime",
+			"PickupDepartDateTime",
+			"Freight Payment",
+			"dmTblOrderEvents",
+			"DeliveryTime",
+			"DeliveryDate",
+			"Arrival",
+			"SchDeliveryTime",
+			"SchDeliveryDate",
+			"ArrivalPickupTime",
+			"ArrivalPickupDate",
+			"SchPickupTime",
+			"SchPickupDate",
+			"DeliveryTime",
+			"ArrivalPickupDate",
+			"DeliveryDate",
+			"Arrival",
+			"SchDeliveryTime",
+			"SchDeliveryDate",
+			"PickupTime",
+			"PickupDate",
+			"Sch",
+			"ArrivalPickupTime",
+			"ArrivalPickupDate",
+			"SchPickupTime",
+			"SchPickupDate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyd2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
